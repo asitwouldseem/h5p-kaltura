@@ -8,7 +8,7 @@ To get a local copy up and running follow these simple steps.
 2. Run `npm install` to install components necessary for building minified CSS.
 3. Run `gulp build` to build the minified CSS.
 
-One up and running, follow these steps to create a page for the file.
+Once up and running, follow these steps to create a page for the file.
 1. Create a new HTML file in the `/public` directory anytime you'd like to shoehorn Kaltura into your H5P module.
 2. Update the details in curly brackets {{}}.
 3. Use the [iframe embedder component](https://h5p.org/iframe-embedder) to embed the HTML file you're hosting.
