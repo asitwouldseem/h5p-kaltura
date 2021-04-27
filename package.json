@@ -1,0 +1,23 @@
+{
+  "name": "h5p-kaltura",
+  "version": "1.0.0",
+  "description": "A quick hack to embed Kaltura videos into H5P using the iframe embedder tool. Useful if your institution only offers a building block for Kaltura in your LMS.",
+  "private": true,
+  "author": "Cameron Morgan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asitwouldseem/h5p-kaltura.git"
+  },
+  "keywords": [
+    "kaltura",
+    "h5p"
+  ],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-load-plugins": "^2.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-sass": "^4.0.2"
+  }
+}
